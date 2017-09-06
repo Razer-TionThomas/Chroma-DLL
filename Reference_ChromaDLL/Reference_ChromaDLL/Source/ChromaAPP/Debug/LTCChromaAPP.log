@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ReferenceChromaAPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LTCChromaAPP.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  LTCChromaAPP.vcxproj -> C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaAPP\Debug\LTCChromaAPP.exe
+  LTCChromaAPP.vcxproj -> C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaAPP\Debug\LTCChromaAPP.pdb (Full PDB)

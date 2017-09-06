@@ -1,0 +1,9 @@
+﻿  LTCChromaDLL.cpp
+     Creating library C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaDLL\Release\LTCChromaDLL.lib and object C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaDLL\Release\LTCChromaDLL.exp
+  Generating code
+  9 of 60 functions (15.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LTCChromaDLL.vcxproj -> C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaDLL\Release\LTCChromaDLL.dll
+  LTCChromaDLL.vcxproj -> C:\Users\tion.thomas\Documents\Chroma\ChromaDLL Integrations\LetThemCome_ChromaDLL\LetThemCome_ChromaDLL\Source\LTCChromaDLL\Release\LTCChromaDLL.pdb (Full PDB)
